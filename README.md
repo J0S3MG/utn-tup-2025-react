@@ -27,11 +27,11 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 ### 1️- Clonar el repositorio
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/J0S3MG/utn-tup-2025-react.git
 ```
 ### 2- Ingresar en la carpeta
 ```bash
-cd my-react-app
+cd TrabajoPractico
 ```
 ### 3- Instalar las ddependencias
 ```bash
